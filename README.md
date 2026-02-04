@@ -4,6 +4,10 @@
 
 This is a front-end recreation of a Netflix landing page clone. The project replicates the visual design and layout of Netflix's main interface, featuring a navigation bar, featured series display, and a recommendation section with popular content.
 
+## Preview
+
+![Netflix Landing Page Clone Preview](images/preview.png)
+
 ## Project Structure
 
 ```
